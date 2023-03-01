@@ -26,7 +26,7 @@ Console.Clear();
 //"robô"
 
 Console.Write("Adversário:");
-Console.WriteLine("E VOCÊ É UM PALERMA!!!");
+Console.WriteLine(" E VOCÊ É UM PALERMA!!!");
 Console.ForegroundColor = ConsoleColor.DarkGray;
 Console.WriteLine("\npressione uma tecla para continuar...");
 Console.ResetColor();
